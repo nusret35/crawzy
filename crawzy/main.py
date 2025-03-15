@@ -136,6 +136,3 @@ def main():
         print(f"Unable to extract text from files: {e}")
     finally:
         cleanup()
-
-
-main()
